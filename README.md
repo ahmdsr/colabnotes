@@ -1,4 +1,5 @@
 # colabnotes
-Everyone can collaborate
 
-made with ai, but it works, have fun with it
+made with ai
+it works tho i promise
+have fun with it
